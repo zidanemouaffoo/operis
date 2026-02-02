@@ -5,7 +5,7 @@
     <artifactId>operis-project</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>operis-project-services</artifactId>
+  <artifactId>operis-project-service</artifactId>
   <packaging>pom</packaging>
   
   <dependencies>
